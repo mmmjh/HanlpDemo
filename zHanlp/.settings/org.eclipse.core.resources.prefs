@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//data/dictionary/custom/CustomDictionary.txt=utf-8
+encoding//data/dictionary/custom/\u4EBA\u540D\u8BCD\u5178.txt=UTF-8
+encoding//data/dictionary/custom/\u5168\u56FD\u5730\u540D\u5927\u5168.txt=utf-8
+encoding//data/dictionary/custom/\u73B0\u4EE3\u6C49\u8BED\u8865\u5145\u8BCD\u5E93.txt=UTF-8
+encoding//data/dictionary/person/nr.txt=utf-8
+encoding//data/dictionary/person/nrf.txt=utf-8
+encoding//data/dictionary/person/nrj.txt=UTF-8
+encoding//src/com/hankcs/hanlp/HanLP.java=utf-8
